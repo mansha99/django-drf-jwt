@@ -1,0 +1,34 @@
+[
+    {
+      "model": "notices.Notice",
+      "pk": 1,
+      "fields": {
+        "title": "This is Notice 1",
+        "description": "This is description of Notice 1"
+      }
+    },
+    {
+      "model": "notices.Notice",
+      "pk": 2,
+      "fields": {
+        "title": "This is Notice 2",
+        "description": "This is description of Notice 2"
+      }
+    },
+    {
+      "model": "notices.Notice",
+      "pk": 3,
+      "fields": {
+        "title": "This is Notice 3",
+        "description": "This is description of Notice 3"
+      }
+    },
+    {
+      "model": "notices.Notice",
+      "pk": 4,
+      "fields": {
+        "title": "This is Notice 4",
+        "description": "This is description of Notice 4"
+      }
+    }
+  ]
